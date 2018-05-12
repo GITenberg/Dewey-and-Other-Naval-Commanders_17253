@@ -1,0 +1,32 @@
+_repo: Dewey-and-Other-Naval-Commanders_17253
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ellis, Edward Sylvester
+    aliases:
+    - Ellis, E. S. (Edward Sylvester)
+    - Ellis, Edward S. (Edward Sylvester)
+    - Jayne, R. H.
+    birthdate: 1840
+    deathdate: 1916
+    gutenberg_agent_id: '2569'
+    url: http://www.gutenberg.org/2009/agents/2569
+description: ''
+gutenberg_bookshelf: Children's Biography
+gutenberg_issued: '2005-12-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17253'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dewey, George, 1837-1917'
+- !lcc 'E151'
+- !lcsh 'United States. Navy -- History'
+title: Dewey and Other Naval Commanders
+url: http://www.gutenberg.org/ebooks/17253
